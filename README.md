@@ -1,3 +1,7 @@
+
+### This code is associated with the paper from Himmelstein et al., "Research: Sci-Hub provides access to nearly all scholarly literature". eLife, 2018. http://dx.doi.org/10.7554/eLife.32822
+
+
 # Data on Library Access to Scholarly Literature
 
 [![Build Status](https://travis-ci.org/greenelab/library-access.svg?branch=master)](https://travis-ci.org/greenelab/library-access)
